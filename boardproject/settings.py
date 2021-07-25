@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6l_8mp^l#dda_b35hx6ihfw_=c^&$rhq++*_83c)5gc$6ahez8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://github.com/kanaupi/simplesns_django']
+ALLOWED_HOSTS = ['kanaupi-simplesns-django.herokuapp.com']
 
 
 # Application definition
